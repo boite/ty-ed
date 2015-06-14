@@ -32,7 +32,7 @@ into one master directory, but this proved difficult for a number of
 reasons.  It was decided to use these sources to seed a manual review
 of the reporting and to build the directory using a mixture of code
 and human intelligence.  The methodology is outlined in
-[METHODOLGY](doc/METHODOLOGY).
+[METHODOLGY](doc/METHODOLOGY.md).
 
 
 
