@@ -34,11 +34,11 @@ source:-
 - Presentation url: This is the URL of the page where the primary
   source can be viewed directly. It may be the same as the article
   under review where the primary source is an embedded image, or it
-  may be a separate page in whcih the primary source is embedded. It
+  may be a separate page in which the primary source is embedded. It
   may also be left empty, for example if the article under review only
   provides a link to download the primary source.
 - Primary source url: the URL of the primary source itself. This also
-  may be empty if the primary source isn't downloadable, e.g. where
+  may be empty if the primary source is not downloadable, e.g. where
   the article under review presents the text of the primary source,
 - Accompanying article url: this is often, but not always the url of
   the article under review.
@@ -78,3 +78,47 @@ source.
 
 [r/NSALeaks]: https://www.reddit.com/r/NSALeaks/wiki/timeline
               "r/NSALeaks Timeline"
+
+
+## Retrieval of Primary Sources
+
+Each file, once downloaded, should be named uniquely while having the
+following name components:-
+
+- A date, leading the file name, so that it falls naturally into date order.
+- The original file name.
+- A file extension to assist with selection of an application with
+  which to view the file
+
+The primary sources were not named consistently by the publishers and
+do not follow the desired naming scheme.  Downloaded files will be
+renamed according to the following rules:
+
+- Each component of the file name is separated with an underscore
+  character.
+- The name begins with the date of publication of the Primary Source
+  in the format `YYYY-MM-DD` where Y, M and D are numeric characters.
+- A SHA256 digest is made over the content of the file and the first
+  8 hexadecimal characters is the next component of the file name.
+  This provides a strong assurance that the resulting name is unique.
+- The original file name is the next component of the file name.
+
+In addition to these rules, a file name extension is appended to the
+file name if the original name of the file does not include one.
+
+### Download and store the discovered Primary Sources
+
+    $ python script/down.py --input=data/discovered.jsonl
+                            --output=data/downloaded.jsonl
+                            dox/
+
+This will place the downloaded files in `dox/` and write an entry for
+each file into `data/downloaded.jsonl`.  Each entry is a json line
+containing the following information:
+
+- url: The URL from which the file was retrieved.
+- filename: The name of the file on disk.
+- original_filename: The original name of the file.
+- digest: The SHA256 digest of the content of the file.
+
+
