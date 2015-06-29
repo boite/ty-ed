@@ -122,3 +122,40 @@ containing the following information:
 - digest: The SHA256 digest of the content of the file.
 
 
+## Primary Source Catalogue creation
+
+Cataloguing the Primary Sources is now a simple matter of combining
+information from the discovery and retrieval steps:-
+
+    $ python script/discodown.py data/discovered.jsonl
+                                 data/downloaded.jsonl
+                                 data/catalogue.json
+
+Each item in [data/catalogue.json](../data/catalogue.json) is an
+object, in json notation:-
+
+    {
+        pubdate: '',
+        url: '',
+        presentation_url: '',
+        published_files: [
+            {
+                file: {
+                    digest: '',
+                    name: '',
+                    original_name: '',
+                    files: []
+                },
+                index_type: '',
+                index: ''
+            }
+        ],
+        alternative_files: [],
+        accompanying_articles: [
+            {
+                pubdate: '',
+                url: ''
+            }
+        ]
+    }
+
