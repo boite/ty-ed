@@ -1886,7 +1886,7 @@
     },
     {
         "pubdate": "2013-10-04",
-        "url": "http://articles.washingtonpost.com/2013-10-04/world/42704372_1_ramp-statistics-steganography",
+        "url": "",
         "accomp_articles": [
             {
                 "url": "http://www.washingtonpost.com/world/national-security/secret-nsa-documents-show-campaign-against-tor-encrypted-network/2013/10/04/610f08b6-2d05-11e3-8ade-a1f23cda135e_story.html",
@@ -1895,18 +1895,7 @@
         ],
         "alternative_files": [],
         "presentation_url": "http://articles.washingtonpost.com/2013-10-04/world/42704372_1_ramp-statistics-steganography",
-        "published_files": [
-            {
-                "index_type": "",
-                "file": {
-                    "files": [],
-                    "original_name": "42704372_1_ramp-statistics-steganography",
-                    "name": "2013-10-04_3528b9f7_42704372_1_ramp-statistics-steganography.html",
-                    "digest": "3528b9f7a9bbed7250977b237857ba0897901d5ffd3bfbb3964d46539887ee9f"
-                },
-                "index": ""
-            }
-        ]
+        "published_files": []
     },
     {
         "pubdate": "2013-10-04",
