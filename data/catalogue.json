@@ -17600,6 +17600,294 @@
         ]
     },
     {
+        "pubdate": "2015-05-28",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2088968/gladwell-amp-nsa.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/05/28/nsa-officials-privately-criticize-collect-it-all-surveillance/",
+                "pubdate": "2015-05-28"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2088968-gladwell-amp-nsa.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "gladwell-amp-nsa.pdf",
+                    "name": "2015-05-28_8d003bdc_gladwell-amp-nsa.pdf",
+                    "digest": "8d003bdc21cc7753e3c7e4762c827ac1e1ef6dcc733faf589b2776c220cdd537"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-05-28",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2088972/cognitive-overflow.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/05/28/nsa-officials-privately-criticize-collect-it-all-surveillance/",
+                "pubdate": "2015-05-28"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2088972-cognitive-overflow.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "cognitive-overflow.pdf",
+                    "name": "2015-05-28_488f713c_cognitive-overflow.pdf",
+                    "digest": "488f713ca5102f9b16869342478dc51a6ab33de80b5d6c6d35ef96b34f440043"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-05-28",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2088973/data-is-not-intelligence.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/05/28/nsa-officials-privately-criticize-collect-it-all-surveillance/",
+                "pubdate": "2015-05-28"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2088973-data-is-not-intelligence.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "data-is-not-intelligence.pdf",
+                    "name": "2015-05-28_42f24c4f_data-is-not-intelligence.pdf",
+                    "digest": "42f24c4fb45cbde16f4229c06aadaa5abb4e8b1de4602f1fca493ac42e535b98"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-05-28",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2088974/drowning-in-information.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/05/28/nsa-officials-privately-criticize-collect-it-all-surveillance/",
+                "pubdate": "2015-05-28"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2088974-drowning-in-information.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "drowning-in-information.pdf",
+                    "name": "2015-05-28_18c296b1_drowning-in-information.pdf",
+                    "digest": "18c296b1621fde3f8e2e1b8799e36343ac6715e244c8d0b66c3abc125115c8bc"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-05-28",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2088975/fallacies-behind-the-scenes.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/05/28/nsa-officials-privately-criticize-collect-it-all-surveillance/",
+                "pubdate": "2015-05-28"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2088975-fallacies-behind-the-scenes.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "fallacies-behind-the-scenes.pdf",
+                    "name": "2015-05-28_e74d7d8a_fallacies-behind-the-scenes.pdf",
+                    "digest": "e74d7d8a7032e2de61a159a2d5cd1bffba16fed68ec6fbf55516aa6f6e4c9431"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-05-28",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2088976/in-praise-of-not-knowing.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/05/28/nsa-officials-privately-criticize-collect-it-all-surveillance/",
+                "pubdate": "2015-05-28"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2088976-in-praise-of-not-knowing.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "in-praise-of-not-knowing.pdf",
+                    "name": "2015-05-28_d4d0c925_in-praise-of-not-knowing.pdf",
+                    "digest": "d4d0c9251bdd813a032a3d40f8e01c2b05adafdeda598b0063974846bde71844"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-05-28",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2088977/overcome-by-overload.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/05/28/nsa-officials-privately-criticize-collect-it-all-surveillance/",
+                "pubdate": "2015-05-28"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2088977-overcome-by-overload.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "overcome-by-overload.pdf",
+                    "name": "2015-05-28_605bd2f8_overcome-by-overload.pdf",
+                    "digest": "605bd2f851baabfb1220121e6af97522dafa9d75d06981c7fd4bc85caaafa852"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-05-28",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2088978/do-we-need-a-bigger-sigint-truck.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/05/28/nsa-officials-privately-criticize-collect-it-all-surveillance/",
+                "pubdate": "2015-05-28"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2088978-do-we-need-a-bigger-sigint-truck.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "do-we-need-a-bigger-sigint-truck.pdf",
+                    "name": "2015-05-28_ac96a818_do-we-need-a-bigger-sigint-truck.pdf",
+                    "digest": "ac96a818f7c5ee08c294fb99dc503dc8086727f0470113a419fc44c0af781ae9"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-05-28",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2088979/summit-fever.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/05/28/nsa-officials-privately-criticize-collect-it-all-surveillance/",
+                "pubdate": "2015-05-28"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2088979-summit-fever.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "summit-fever.pdf",
+                    "name": "2015-05-28_eb98d714_summit-fever.pdf",
+                    "digest": "eb98d714146ecc8e7225b0a21470a798959240b92e19b821c40fa2ffaaed8e06"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-05-28",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2088983/too-many-choices.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/05/28/nsa-officials-privately-criticize-collect-it-all-surveillance/",
+                "pubdate": "2015-05-28"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2088983-too-many-choices.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "too-many-choices.pdf",
+                    "name": "2015-05-28_fb97e14e_too-many-choices.pdf",
+                    "digest": "fb97e14eac0f3c27df26fb685c8b81a29f59984acb0ceca3820dca4848f8d71f"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-05-28",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2088984/tsunami-of-intercept.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/05/28/nsa-officials-privately-criticize-collect-it-all-surveillance/",
+                "pubdate": "2015-05-28"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2088984-tsunami-of-intercept.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "tsunami-of-intercept.pdf",
+                    "name": "2015-05-28_57c354c2_tsunami-of-intercept.pdf",
+                    "digest": "57c354c298487e1bf180e87c563b4d2c0c12e5ec6677a16b52617f061aaa948d"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-05-28",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2089125/analytic-modernization.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/05/28/nsa-officials-privately-criticize-collect-it-all-surveillance/",
+                "pubdate": "2015-05-28"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2089125-analytic-modernization.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "analytic-modernization.pdf",
+                    "name": "2015-05-28_352658c9_analytic-modernization.pdf",
+                    "digest": "352658c976e18c4bed3008e754087bc476a8c9200b473e5449a3b178a8965753"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
         "pubdate": "2015-06-04",
         "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2091502/snfsidconcur2012704-fbicyberfisas-v1-0-redacted.pdf",
         "accomp_articles": [
