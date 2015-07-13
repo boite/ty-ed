@@ -4,7 +4,7 @@
 
 ### Crawl CF and EFF, saving to json lines files:-
 
-    $ pushd scrape/docinfo/
+    $ cd scrape/docinfo/
     $ scrapy crawl --output-format=jsonlines \
                    --output=../../data/cf.jsonl \
                    --logfile=../../data/cf.log \
@@ -13,15 +13,13 @@
                    --output=../../data/eff.jsonl \
                    --logfile=../../data/eff.log \
                    eff
-    $ popd
 
 ### Review the URLs scraped from CF and EFF:-
 
-    $ pushd data/
+    $ cd data/
     $ python ../script/source-discover.py -s discovery.state \
                                           -i cf.jsonl -i eff.jsonl \
                                           discovered.jsonl
-    $ popd
 
 The idea here is that the tool outputs a URL for examination by a
 human and prompts for the number of primary sources to create.  For
@@ -59,21 +57,21 @@ source.
   'view source'.
 - Copy the wiki source into a file in data/.
 - Repeat for all continuance wiki pages.
-- Generate a list of urls:-
+- Generate a list of urls (see commands, below)
 
-    $ pushd data/
+Generate a list of urls from the wiki markup:-
+
+    $ cd data/
     $ python ../script/r-nsaleaks-wiki2list.py 1.wiki >> timeline.list
     $ python ../script/r-nsaleaks-wiki2list.py 2.wiki >> timeline.list
-    $ popd
 
 
 ### Review the URLs from r/NSALeaks timeline wiki
 
-    $ pushd data/
+    $ cd data
     $ python ../script/source-discover.py -s discovery.state \
                                           -f url -i timeline.list \
                                           discovered.jsonl
-    $ popd
 
 
 [r/NSALeaks]: https://www.reddit.com/r/NSALeaks/wiki/timeline
