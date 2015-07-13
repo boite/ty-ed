@@ -12955,6 +12955,496 @@
         ]
     },
     {
+        "pubdate": "2014-11-25",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable",
+                "pubdate": "2014-11-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view?usp=sharing",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [
+                        {
+                            "index_type": "path",
+                            "file": {
+                                "files": [],
+                                "original_name": "access_breakdown.pdf",
+                                "name": "2014-11-25_c717131a_access_breakdown.pdf",
+                                "digest": "c717131aab2e9ae7e7a1606e822076ed0d81c3e34bf3b7e5188f2c754600d2e6"
+                            },
+                            "index": "2009_Cable_Master_List/access_breakdown.pdf"
+                        }
+                    ],
+                    "original_name": "Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche Zeitung.zip",
+                    "name": "2014-11-25_2bb2cd3d_Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche_Zeitung.zip",
+                    "digest": "2bb2cd3dbb86c9b0babe4b68e24a870f2e5eb37f9e7ef30e5b535b5bc31d230c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2014-11-25",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable",
+                "pubdate": "2014-11-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view?usp=sharing",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [
+                        {
+                            "index_type": "path",
+                            "file": {
+                                "files": [],
+                                "original_name": "data.pdf",
+                                "name": "2014-11-25_2774460a_data.pdf",
+                                "digest": "2774460a94461399e1c96da03d8d72b9fcda0c193a61a5f387872cdc03c46cd7"
+                            },
+                            "index": "2009_Cable_Master_List/data.pdf"
+                        }
+                    ],
+                    "original_name": "Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche Zeitung.zip",
+                    "name": "2014-11-25_2bb2cd3d_Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche_Zeitung.zip",
+                    "digest": "2bb2cd3dbb86c9b0babe4b68e24a870f2e5eb37f9e7ef30e5b535b5bc31d230c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2014-11-25",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable",
+                "pubdate": "2014-11-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view?usp=sharing",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [
+                        {
+                            "index_type": "path",
+                            "file": {
+                                "files": [],
+                                "original_name": "no_current_access.pdf",
+                                "name": "2014-11-25_be7a56a7_no_current_access.pdf",
+                                "digest": "be7a56a70cde686ba57ced90c84acfca4550787f4d035c9df068fddefa4c2001"
+                            },
+                            "index": "2009_Cable_Master_List/no_current_access.pdf"
+                        }
+                    ],
+                    "original_name": "Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche Zeitung.zip",
+                    "name": "2014-11-25_2bb2cd3d_Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche_Zeitung.zip",
+                    "digest": "2bb2cd3dbb86c9b0babe4b68e24a870f2e5eb37f9e7ef30e5b535b5bc31d230c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2014-11-25",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable",
+                "pubdate": "2014-11-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view?usp=sharing",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [
+                        {
+                            "index_type": "path",
+                            "file": {
+                                "files": [],
+                                "original_name": "partner_cables.pdf",
+                                "name": "2014-11-25_83e0fea1_partner_cables.pdf",
+                                "digest": "83e0fea11753314efd6d9003b09c231709689930f2a3259c4a48e435051af391"
+                            },
+                            "index": "2009_Cable_Master_List/partner_cables.pdf"
+                        }
+                    ],
+                    "original_name": "Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche Zeitung.zip",
+                    "name": "2014-11-25_2bb2cd3d_Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche_Zeitung.zip",
+                    "digest": "2bb2cd3dbb86c9b0babe4b68e24a870f2e5eb37f9e7ef30e5b535b5bc31d230c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2014-11-25",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable",
+                "pubdate": "2014-11-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view?usp=sharing",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [
+                        {
+                            "index_type": "path",
+                            "file": {
+                                "files": [],
+                                "original_name": "regions.pdf",
+                                "name": "2014-11-25_18bcb2a8_regions.pdf",
+                                "digest": "18bcb2a81da356bf91edba6714ded0a1943c2d63e8c4e3e5ff05094c1787b9f7"
+                            },
+                            "index": "2009_Cable_Master_List/regions.pdf"
+                        }
+                    ],
+                    "original_name": "Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche Zeitung.zip",
+                    "name": "2014-11-25_2bb2cd3d_Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche_Zeitung.zip",
+                    "digest": "2bb2cd3dbb86c9b0babe4b68e24a870f2e5eb37f9e7ef30e5b535b5bc31d230c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2014-11-25",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable",
+                "pubdate": "2014-11-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view?usp=sharing",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [
+                        {
+                            "index_type": "path",
+                            "file": {
+                                "files": [],
+                                "original_name": "WHERE_WE_ARE.pdf",
+                                "name": "2014-11-25_fe50879b_WHERE_WE_ARE.pdf",
+                                "digest": "fe50879bb9e8b188d41e5dd67494dcfbe570106dfe0ba2fc975e5f70255fdb3f"
+                            },
+                            "index": "2009_Cable_Master_List/WHERE_WE_ARE.pdf"
+                        }
+                    ],
+                    "original_name": "Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche Zeitung.zip",
+                    "name": "2014-11-25_2bb2cd3d_Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche_Zeitung.zip",
+                    "digest": "2bb2cd3dbb86c9b0babe4b68e24a870f2e5eb37f9e7ef30e5b535b5bc31d230c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2014-11-25",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable",
+                "pubdate": "2014-11-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view?usp=sharing",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [
+                        {
+                            "index_type": "path",
+                            "file": {
+                                "files": [],
+                                "original_name": "WHERE_WE_WANT_TO_BE.pdf",
+                                "name": "2014-11-25_8a7e311a_WHERE_WE_WANT_TO_BE.pdf",
+                                "digest": "8a7e311ab34615a3ace87b9cb666e64096dc8a5b8d4ae0fe6e195b4ca01be4d3"
+                            },
+                            "index": "2009_Cable_Master_List/WHERE_WE_WANT_TO_BE.pdf"
+                        }
+                    ],
+                    "original_name": "Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche Zeitung.zip",
+                    "name": "2014-11-25_2bb2cd3d_Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche_Zeitung.zip",
+                    "digest": "2bb2cd3dbb86c9b0babe4b68e24a870f2e5eb37f9e7ef30e5b535b5bc31d230c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2014-11-25",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable",
+                "pubdate": "2014-11-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view?usp=sharing",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [
+                        {
+                            "index_type": "path",
+                            "file": {
+                                "files": [],
+                                "original_name": "25_apr_2013_sso_weekly_brief.pdf",
+                                "name": "2014-11-25_4057a417_25_apr_2013_sso_weekly_brief.pdf",
+                                "digest": "4057a417c5ead448378461b606cf1009066ee6936516c6987049359074741575"
+                            },
+                            "index": "25_apr_2013_sso_weekly_brief.pdf"
+                        }
+                    ],
+                    "original_name": "Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche Zeitung.zip",
+                    "name": "2014-11-25_2bb2cd3d_Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche_Zeitung.zip",
+                    "digest": "2bb2cd3dbb86c9b0babe4b68e24a870f2e5eb37f9e7ef30e5b535b5bc31d230c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2014-11-25",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable",
+                "pubdate": "2014-11-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view?usp=sharing",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [
+                        {
+                            "index_type": "path",
+                            "file": {
+                                "files": [],
+                                "original_name": "27_June_08_redacted.pdf",
+                                "name": "2014-11-25_38808019_27_June_08_redacted.pdf",
+                                "digest": "3880801903586439c24d5c1130295e53149a9a818c00c87eacba4f459c4b2d3d"
+                            },
+                            "index": "27_June_08_redacted.pdf"
+                        }
+                    ],
+                    "original_name": "Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche Zeitung.zip",
+                    "name": "2014-11-25_2bb2cd3d_Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche_Zeitung.zip",
+                    "digest": "2bb2cd3dbb86c9b0babe4b68e24a870f2e5eb37f9e7ef30e5b535b5bc31d230c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2014-11-25",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable",
+                "pubdate": "2014-11-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view?usp=sharing",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [
+                        {
+                            "index_type": "path",
+                            "file": {
+                                "files": [],
+                                "original_name": "28_November_08_redacted.pdf",
+                                "name": "2014-11-25_11737148_28_November_08_redacted.pdf",
+                                "digest": "11737148b9934eb213d1c6d25a63640ab9b62ffa7a2ce1969a7eb0cc57e3ed84"
+                            },
+                            "index": "28_November_08_redacted.pdf"
+                        }
+                    ],
+                    "original_name": "Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche Zeitung.zip",
+                    "name": "2014-11-25_2bb2cd3d_Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche_Zeitung.zip",
+                    "digest": "2bb2cd3dbb86c9b0babe4b68e24a870f2e5eb37f9e7ef30e5b535b5bc31d230c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2014-11-25",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable",
+                "pubdate": "2014-11-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view?usp=sharing",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [
+                        {
+                            "index_type": "path",
+                            "file": {
+                                "files": [],
+                                "original_name": "6_February_09_redacted.pdf",
+                                "name": "2014-11-25_9fb89f55_6_February_09_redacted.pdf",
+                                "digest": "9fb89f558624dc77b66e64bfff0048379fa5f3f6661cc6d357b0d61d90392749"
+                            },
+                            "index": "6_February_09_redacted.pdf"
+                        }
+                    ],
+                    "original_name": "Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche Zeitung.zip",
+                    "name": "2014-11-25_2bb2cd3d_Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche_Zeitung.zip",
+                    "digest": "2bb2cd3dbb86c9b0babe4b68e24a870f2e5eb37f9e7ef30e5b535b5bc31d230c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2014-11-25",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable",
+                "pubdate": "2014-11-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view?usp=sharing",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [
+                        {
+                            "index_type": "path",
+                            "file": {
+                                "files": [],
+                                "original_name": "CNE_PFENNING_ALPHA_redacted.pdf",
+                                "name": "2014-11-25_aea10562_CNE_PFENNING_ALPHA_redacted.pdf",
+                                "digest": "aea105628cbf09b32a6e676f413897e93a853983c73bce5b36357075a34c02b2"
+                            },
+                            "index": "CNE_PFENNING_ALPHA_redacted.pdf"
+                        }
+                    ],
+                    "original_name": "Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche Zeitung.zip",
+                    "name": "2014-11-25_2bb2cd3d_Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche_Zeitung.zip",
+                    "digest": "2bb2cd3dbb86c9b0babe4b68e24a870f2e5eb37f9e7ef30e5b535b5bc31d230c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2014-11-25",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable",
+                "pubdate": "2014-11-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view?usp=sharing",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [
+                        {
+                            "index_type": "path",
+                            "file": {
+                                "files": [],
+                                "original_name": "FEA_cable_list.pdf",
+                                "name": "2014-11-25_1c3f9021_FEA_cable_list.pdf",
+                                "digest": "1c3f9021029476084e77258fe01d8ff82da43be9c8e784dc44baf64fec87fb57"
+                            },
+                            "index": "FEA_cable_list.pdf"
+                        }
+                    ],
+                    "original_name": "Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche Zeitung.zip",
+                    "name": "2014-11-25_2bb2cd3d_Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche_Zeitung.zip",
+                    "digest": "2bb2cd3dbb86c9b0babe4b68e24a870f2e5eb37f9e7ef30e5b535b5bc31d230c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2014-11-25",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable",
+                "pubdate": "2014-11-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view?usp=sharing",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [
+                        {
+                            "index_type": "path",
+                            "file": {
+                                "files": [],
+                                "original_name": "PTC_Glossary_redacted.pdf",
+                                "name": "2014-11-25_6518c2a8_PTC_Glossary_redacted.pdf",
+                                "digest": "6518c2a8291338d4392e30e7fa75f8c6a7074b395bc8f051b0a5dd216899a8ef"
+                            },
+                            "index": "PTC_Glossary_redacted.pdf"
+                        }
+                    ],
+                    "original_name": "Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche Zeitung.zip",
+                    "name": "2014-11-25_2bb2cd3d_Snowden_Docs_Gerontic_GCHQ_S\u00fcddeutsche_Zeitung.zip",
+                    "digest": "2bb2cd3dbb86c9b0babe4b68e24a870f2e5eb37f9e7ef30e5b535b5bc31d230c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
         "pubdate": "2014-12-04",
         "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/1374175/auroragold-project-overview.pdf",
         "accomp_articles": [

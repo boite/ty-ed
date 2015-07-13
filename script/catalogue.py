@@ -1,4 +1,4 @@
-#  discodown.py  Combine discovered and downloaded document metadata.
+#  catalogue.py  Combine discovered and downloaded document metadata.
 #  Copyright (C) 2015 jah
 #
 #  This program is free software: you can redistribute it and/or modify
@@ -16,22 +16,26 @@
 #  <http://www.gnu.org/licenses/>.
 
 """
-Combine the output of source-discover.py and down.py to create a josn
-file of Primary Source document metadata.
+Combine the output of source-discover.py and down.py to create a json
+catalogue of Primary Source document metadata.
 
 Usage:
-    discodown.py  DISCO DOWN COMBI
-    discodown.py  (-h | --help)
-    discodown.py  --version
+    catalogue.py  [--include=MANCAT] DISCOVERED DOWNLOADED CATALOGUE
+    catalogue.py  (-h | --help)
+    catalogue.py  --version
 
 Arguments:
-    DISCO  path to a json lines file as output by source-discover.py
-    DOWN   path to a json lines file as output by down.py
-    COMBI  output a json file to this path, overwrite it if it exists
+    DISCOVERED  path to a json lines file as output by source-discover.py
+    DOWNLOADED  path to a json lines file as output by down.py
+    CATALOGUE   path to a (possibly existing) json file to which the
+                entire catalogue (including existing entries) will be
+                written
 
 Options:
-    -h --help                        Show this screen.
-    --version                        Show version.
+    --include=MANCAT  path to a manually created json catalogue to be
+                      included in the CATALOGUE.
+    -h --help         Show this screen.
+    --version         Show version.
 
 """
 
@@ -104,7 +108,7 @@ def main(args):
 
     # try to read and parse any previously combined entries.
     try:
-        out_file = open(args['COMBI'], 'r')
+        out_file = open(args['CATALOGUE'], 'r')
     except IOError, e:
         combined = []
     else:
@@ -139,7 +143,7 @@ def main(args):
     # where a download url is absent, create or update 'combined'
     # records from the document info alone. 
     discovered_map = {}
-    disco_file = open(args['DISCO'], 'r')
+    disco_file = open(args['DISCOVERED'], 'r')
     for line in disco_file:
         o = json.loads(line)
         url = o['url'] or o['presentation_url']
@@ -169,7 +173,7 @@ def main(args):
 
     # read the downloaded file info, find its corresponding discovery
     # info and combine the two
-    down_file = open(args['DOWN'], 'r')
+    down_file = open(args['DOWNLOADED'], 'r')
     for line in down_file:
         down = json.loads(line)
         url = down['url']
@@ -195,26 +199,35 @@ def main(args):
 
     down_file.close()
 
+    # try to read and parse a handwritten catalogue.
+    handwritten_catalogue = []
+    if args['--include']:
+        inc_file = open(args['--include'], 'r')
+        handwritten_catalogue = json.load(inc_file)
+        inc_file.close()
+
     # open out_file for writing and empty it
-    out_file = open(args['COMBI'], 'w')
+    out_file = open(args['CATALOGUE'], 'w')
     out_file.seek(0)
     out_file.truncate()
 
-    # extract the combined records from combined_map, sort and dump
-    json.dump(sorted([ x['record'] for x in combined_map.itervalues()],
-                     key=lambda x: (x['pubdate'],
-                                    x['url'] or x['presentation_url'])
-                    ), out_file, indent=4, separators=(',', ': '))
+    # extract the combined records from combined_map, include any
+    # handwritten records, sort and dump
+    json.dump(sorted([ x['record'] for x in combined_map.itervalues()]
+                     + handwritten_catalogue,
+                     key=lambda x: (x['pubdate'], x['url'] or
+                                                  x['presentation_url'])),
+              out_file, indent=4, separators=(',', ': '))
 
     out_file.close()
 
     print 'Total records written: %d. New records: %d' % (
-                                  len(combined_map), combined_count)
+        len(combined_map) + len(handwritten_catalogue), combined_count)
 
     return 0
 
 
 if __name__ == '__main__':
-    arguments = docopt(__doc__, version='0.0.1')
+    arguments = docopt(__doc__, version='0.0.2')
     sys.exit(main(arguments))
 

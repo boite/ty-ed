@@ -127,9 +127,11 @@ containing the following information:
 Cataloguing the Primary Sources is now a simple matter of combining
 information from the discovery and retrieval steps:-
 
-    $ python script/discodown.py data/discovered.jsonl
-                                 data/downloaded.jsonl
-                                 data/catalogue.json
+    $ cd data
+    $ python ../script/catalogue.py --include catalogue_manpopd.json
+                                    discovered.jsonl
+                                    downloaded.jsonl
+                                    catalogue.json
 
 Each item in [data/catalogue.json](../data/catalogue.json) is an
 object, in json notation:-
