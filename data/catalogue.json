@@ -20303,5 +20303,29 @@
                 "index": ""
             }
         ]
+    },
+    {
+        "pubdate": "2015-07-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2165140/manhunting-redacted.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/07/15/israeli-special-forces-assassinated-senior-syrian-official/",
+                "pubdate": "2015-07-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2165140-manhunting-redacted.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "manhunting-redacted.pdf",
+                    "name": "2015-07-15_5fb67f36_manhunting-redacted.pdf",
+                    "digest": "5fb67f367e83f21c13d2eb27ada5f8e98b84b7fa8606d78d2a0d80fa5fe81489"
+                },
+                "index": ""
+            }
+        ]
     }
 ]
