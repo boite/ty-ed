@@ -20327,5 +20327,149 @@
                 "index": ""
             }
         ]
+    },
+    {
+        "pubdate": "2015-08-03",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2189959/comsat-gchq.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/08/03/life-unmasking-british-eavesdroppers/",
+                "pubdate": "2015-08-03"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2189959-comsat-gchq.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "comsat-gchq.pdf",
+                    "name": "2015-08-03_7c017199_comsat-gchq.pdf",
+                    "digest": "7c017199ec5cba5de6d91a31188d026029f5752cdc3f20f498b66e58a27f6faf"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-03",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2189960/nwp-nsa.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/08/03/life-unmasking-british-eavesdroppers/",
+                "pubdate": "2015-08-03"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2189960-nwp-nsa.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "nwp-nsa.pdf",
+                    "name": "2015-08-03_ea21b2a6_nwp-nsa.pdf",
+                    "digest": "ea21b2a6966043a430df71833fcf759d86fdf35e4f3803137cb1bedfd1456563"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-03",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2189961/nwp2-nsa.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/08/03/life-unmasking-british-eavesdroppers/",
+                "pubdate": "2015-08-03"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2189961-nwp2-nsa.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "nwp2-nsa.pdf",
+                    "name": "2015-08-03_1bbfc225_nwp2-nsa.pdf",
+                    "digest": "1bbfc2251939be91f3a0f39b00d8dce6461d3f0478ef74369a5882b51d23f88f"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-03",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2189962/cqv-fields-nov-2010-nsa.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/08/03/life-unmasking-british-eavesdroppers/",
+                "pubdate": "2015-08-03"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2189962-cqv-fields-nov-2010-nsa.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "cqv-fields-nov-2010-nsa.pdf",
+                    "name": "2015-08-03_8ce75224_cqv-fields-nov-2010-nsa.pdf",
+                    "digest": "8ce75224f883ff2f7cd1708e805e76d2c0751a60caceca9cc0910dc360183fa0"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-03",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2189963/cyprus-gchq.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/08/03/life-unmasking-british-eavesdroppers/",
+                "pubdate": "2015-08-03"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2189963-cyprus-gchq.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "cyprus-gchq.pdf",
+                    "name": "2015-08-03_28952d85_cyprus-gchq.pdf",
+                    "digest": "28952d8597bda02e4d7a5d8f962757ffd7f3fc20548f747ae5530073bb027f60"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-03",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2189964/sid-article-nsa.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/08/03/life-unmasking-british-eavesdroppers/",
+                "pubdate": "2015-08-03"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2189964-sid-article-nsa.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "sid-article-nsa.pdf",
+                    "name": "2015-08-03_bd1790d2_sid-article-nsa.pdf",
+                    "digest": "bd1790d2049da4b821acd72755c2bbf7583f01e32a5a3aac7eb896df05fd90c3"
+                },
+                "index": ""
+            }
+        ]
     }
 ]
