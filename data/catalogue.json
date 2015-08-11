@@ -20471,5 +20471,197 @@
                 "index": ""
             }
         ]
+    },
+    {
+        "pubdate": "2015-08-11",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2259074/are-you-the-sigint-philosopher.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/08/11/surveillance-philosopher-nsa/",
+                "pubdate": "2015-08-11"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2259074-are-you-the-sigint-philosopher.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "are-you-the-sigint-philosopher.pdf",
+                    "name": "2015-08-11_b6d0baa1_are-you-the-sigint-philosopher.pdf",
+                    "digest": "b6d0baa1bf390f75302b88f7c0c789e659618c3063f39825d294d550b1d778a8"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-11",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2259076/are-obscure-languages-still-obscure.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/08/11/surveillance-philosopher-nsa/",
+                "pubdate": "2015-08-11"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2259076-are-obscure-languages-still-obscure.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "are-obscure-languages-still-obscure.pdf",
+                    "name": "2015-08-11_31e87fd6_are-obscure-languages-still-obscure.pdf",
+                    "digest": "31e87fd6c70a525d5cd3616a3e1c7758773882690bc7554452a513210367b68b"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-11",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2259077/the-sigint-philosopher-is-back-with-a-new-face.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/08/11/surveillance-philosopher-nsa/",
+                "pubdate": "2015-08-11"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2259077-the-sigint-philosopher-is-back-with-a-new-face.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "the-sigint-philosopher-is-back-with-a-new-face.pdf",
+                    "name": "2015-08-11_561c96c7_the-sigint-philosopher-is-back-with-a-new-face.pdf",
+                    "digest": "561c96c75ecd138dde16fcfe954e0c32cbdd8438ff72bd02db98b5614fd7a7be"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-11",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2259079/descartes-would-have-been-a-lousy-sigint-reporter.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/08/11/surveillance-philosopher-nsa/",
+                "pubdate": "2015-08-11"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2259079-descartes-would-have-been-a-lousy-sigint-reporter.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "descartes-would-have-been-a-lousy-sigint-reporter.pdf",
+                    "name": "2015-08-11_089df31c_descartes-would-have-been-a-lousy-sigint-reporter.pdf",
+                    "digest": "089df31cd2246502adb2c20a1fab88c94355d0c9b7100856f2a4842b7f1d00df"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-11",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2259081/when-brevity-is-just-the-soul-of-huh.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/08/11/surveillance-philosopher-nsa/",
+                "pubdate": "2015-08-11"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2259081-when-brevity-is-just-the-soul-of-huh.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "when-brevity-is-just-the-soul-of-huh.pdf",
+                    "name": "2015-08-11_8bba0646_when-brevity-is-just-the-soul-of-huh.pdf",
+                    "digest": "8bba064658807277be4aa65ff243a895f1a02898bd2b14f59037614d33c8b2be"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-11",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2259082/sigint-philosopher-in-praise-of-not-knowing.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/08/11/surveillance-philosopher-nsa/",
+                "pubdate": "2015-08-11"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2259082-sigint-philosopher-in-praise-of-not-knowing.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "sigint-philosopher-in-praise-of-not-knowing.pdf",
+                    "name": "2015-08-11_d80f2d59_sigint-philosopher-in-praise-of-not-knowing.pdf",
+                    "digest": "d80f2d59fdca3de81375dc0dee7eb6348d0a698f1cf317fae13740a297dd963c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-11",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2259084/sigint-philosopher-unlike-all-my-terrible.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/08/11/surveillance-philosopher-nsa/",
+                "pubdate": "2015-08-11"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2259084-sigint-philosopher-unlike-all-my-terrible.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "sigint-philosopher-unlike-all-my-terrible.pdf",
+                    "name": "2015-08-11_02e0e4a9_sigint-philosopher-unlike-all-my-terrible.pdf",
+                    "digest": "02e0e4a9e0dcad32974b8d474141b98be9239a45c4fe66b4e1b5a80b7ffab5fc"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-11",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2259085/sigint-philosopher-lessons-for-civil-servants.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://firstlook.org/theintercept/2015/08/11/surveillance-philosopher-nsa/",
+                "pubdate": "2015-08-11"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2259085-sigint-philosopher-lessons-for-civil-servants.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "sigint-philosopher-lessons-for-civil-servants.pdf",
+                    "name": "2015-08-11_a9a562ad_sigint-philosopher-lessons-for-civil-servants.pdf",
+                    "digest": "a9a562ad8e2f367147c7909b8ab93f5ae4ba6549a98f469bb35dec5e477357c9"
+                },
+                "index": ""
+            }
+        ]
     }
 ]
