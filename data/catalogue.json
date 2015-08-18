@@ -20663,5 +20663,341 @@
                 "index": ""
             }
         ]
+    },
+    {
+        "pubdate": "2015-08-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2274318/fairviewdataflowchartsapril2012.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help",
+                "pubdate": "2015-08-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.propublica.org/documents/item/2274318-fairviewdataflowchartsapril2012.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "fairviewdataflowchartsapril2012.pdf",
+                    "name": "2015-08-15_c43bc838_fairviewdataflowchartsapril2012.pdf",
+                    "digest": "c43bc8384b7f23d16b530b3c2bb32158474882c5decec8d68d1a01f091e492a8"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2274319/fairviews2dbriefings11march2013.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help",
+                "pubdate": "2015-08-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.propublica.org/documents/item/2274319-fairviews2dbriefings11march2013.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "fairviews2dbriefings11march2013.pdf",
+                    "name": "2015-08-15_0ac3a61c_fairviews2dbriefings11march2013.pdf",
+                    "digest": "0ac3a61c752bf03398e9ebaeaefffb3541b594671fc0900eb40ff5341d281d75"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2274320/sidtoday-fairview-and-stormbrew-live-on-the-net.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help",
+                "pubdate": "2015-08-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.propublica.org/documents/item/2274320-sidtoday-fairview-and-stormbrew-live-on-the-net.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "sidtoday-fairview-and-stormbrew-live-on-the-net.pdf",
+                    "name": "2015-08-15_b01c8724_sidtoday-fairview-and-stormbrew-live-on-the-net.pdf",
+                    "digest": "b01c872451bf0a7e85fc8487e5309d83eefc890009c4b822edacf208c18d25e8"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2274321/sso-corpteambrief20mar2012-s2d.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help",
+                "pubdate": "2015-08-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.propublica.org/documents/item/2274321-sso-corpteambrief20mar2012-s2d.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "sso-corpteambrief20mar2012-s2d.pdf",
+                    "name": "2015-08-15_feae7024_sso-corpteambrief20mar2012-s2d.pdf",
+                    "digest": "feae7024d93c627fb6c0caf21e977a6db478f09232dfc05e1c42e25ab0481be0"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2274322/sso-dictionary.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help",
+                "pubdate": "2015-08-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.propublica.org/documents/item/2274322-sso-dictionary.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "sso-dictionary.pdf",
+                    "name": "2015-08-15_b950ceaa_sso-dictionary.pdf",
+                    "digest": "b950ceaa11b02bf20750be861d637016bb4c68ff05b0f94439cddb8d0460fff7"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2274323/sso-news-breckenridge-for-stormbrew-collection.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help",
+                "pubdate": "2015-08-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.propublica.org/documents/item/2274323-sso-news-breckenridge-for-stormbrew-collection.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "sso-news-breckenridge-for-stormbrew-collection.pdf",
+                    "name": "2015-08-15_a8eed402_sso-news-breckenridge-for-stormbrew-collection.pdf",
+                    "digest": "a8eed402461124cdfce9b125655d960783e5bc639f4d89e369e0764c4698060b"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2274324/sso-news-fairview-tour.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help",
+                "pubdate": "2015-08-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.propublica.org/documents/item/2274324-sso-news-fairview-tour.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "sso-news-fairview-tour.pdf",
+                    "name": "2015-08-15_76b68fc9_sso-news-fairview-tour.pdf",
+                    "digest": "76b68fc909e42f5b67b76a3331b131b8aa980957c988050c3ee4ded96cb418a6"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2274325/sso-news-fairview-tour-for-director-research.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help",
+                "pubdate": "2015-08-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.propublica.org/documents/item/2274325-sso-news-fairview-tour-for-director-research.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "sso-news-fairview-tour-for-director-research.pdf",
+                    "name": "2015-08-15_11efb339_sso-news-fairview-tour-for-director-research.pdf",
+                    "digest": "11efb339e84fb410511ff3fb95fa8f2765d5a0c4d270a77cdff31ea8de9c3432"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2274326/sso-news-fairview-cliffside-site-collection.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help",
+                "pubdate": "2015-08-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.propublica.org/documents/item/2274326-sso-news-fairview-cliffside-site-collection.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "sso-news-fairview-cliffside-site-collection.pdf",
+                    "name": "2015-08-15_f0e315b9_sso-news-fairview-cliffside-site-collection.pdf",
+                    "digest": "f0e315b9e069da4c49151dfb0b6f0fd515839c879dc3e4c57672b53b0af6f387"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2274327/sso-news-mobility-business-records-flow.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help",
+                "pubdate": "2015-08-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.propublica.org/documents/item/2274327-sso-news-mobility-business-records-flow.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "sso-news-mobility-business-records-flow.pdf",
+                    "name": "2015-08-15_4db95102_sso-news-mobility-business-records-flow.pdf",
+                    "digest": "4db95102c359c45ffa9a487a4fea4f998f2bd639cac96da95c15e1db3aa4e9f3"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2274328/sso-news-united-nations-dni-collection-enabled.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help",
+                "pubdate": "2015-08-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.propublica.org/documents/item/2274328-sso-news-united-nations-dni-collection-enabled.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "sso-news-united-nations-dni-collection-enabled.pdf",
+                    "name": "2015-08-15_6b186b27_sso-news-united-nations-dni-collection-enabled.pdf",
+                    "digest": "6b186b279fedbd0dfd3724f7e19956d8a518873f0bee3826b2ad91d937623080"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2274329/tssinfssooverviewforntoc25march2013.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help",
+                "pubdate": "2015-08-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.propublica.org/documents/item/2274329-tssinfssooverviewforntoc25march2013.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "tssinfssooverviewforntoc25march2013.pdf",
+                    "name": "2015-08-15_bd714e40_tssinfssooverviewforntoc25march2013.pdf",
+                    "digest": "bd714e400a6087314aabaa403f76da2e9f59fedc64b2a47403f33eef19af90e9"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2275165/tssinfcorporateoverview.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help",
+                "pubdate": "2015-08-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.propublica.org/documents/item/2275165-tssinfcorporateoverview.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "tssinfcorporateoverview.pdf",
+                    "name": "2015-08-15_6c09a115_tssinfcorporateoverview.pdf",
+                    "digest": "6c09a11584d6a8118d3927fafd77772fa72d1d6e16aca6c3437118ec95a5e396"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-15",
+        "url": "https://s3.amazonaws.com/s3.documentcloud.org/documents/2281502/u14mar2013-sso-weeklybrief-v1-0-redacted-1.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help",
+                "pubdate": "2015-08-15"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.propublica.org/documents/item/2281502-u14mar2013-sso-weeklybrief-v1-0-redacted-1.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "u14mar2013-sso-weeklybrief-v1-0-redacted-1.pdf",
+                    "name": "2015-08-15_f5fbe4bd_u14mar2013-sso-weeklybrief-v1-0-redacted-1.pdf",
+                    "digest": "f5fbe4bd0502e939285047fcb762d3e2211223dacddf980340f82ee48843ea9e"
+                },
+                "index": ""
+            }
+        ]
     }
 ]
