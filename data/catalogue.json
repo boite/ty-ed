@@ -21001,6 +21001,67 @@
         ]
     },
     {
+        "pubdate": "2015-08-26",
+        "url": "http://pdf.zeit.de/digital/datenschutz/2015-08/xks-xkeystore-document.pdf",
+        "accomp_articles": [
+            {
+                "url": "http://www.zeit.de/digital/datenschutz/2015-08/xks-xkeystore-document",
+                "pubdate": "2015-08-26"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "xks-xkeystore-document.pdf",
+                    "name": "2015-08-26_b2efc62c_xks-xkeystore-document.pdf",
+                    "digest": "b2efc62ca6817769d8a8eceadb2f42e61b7d39a8dc38040bf037d700a68a4c2f"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-08-26",
+        "url": "",
+        "accomp_articles": [
+            {
+                "url": "http://www.zeit.de/digital/datenschutz/2015-08/xkeyscore-nsa-domestic-intelligence-agency",
+                "pubdate": "2015-08-26"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "http://www.zeit.de/digital/datenschutz/2015-08/xks-xkeystore-document",
+        "published_files": []
+    },
+    {
+        "pubdate": "2015-09-25",
+        "url": "http://cdn1.spiegel.de/images/image-902434-galleryV9-esgp-902434.jpg",
+        "accomp_articles": [
+            {
+                "url": "http://www.spiegel.de/international/world/new-snowden-document-reveals-us-spied-on-german-intelligence-a-1055055.html",
+                "pubdate": "2015-09-25"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "http://www.spiegel.de/international/world/bild-1055055-902434.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "image-902434-galleryV9-esgp-902434.jpg",
+                    "name": "2015-09-25_467900fd_image-902434-galleryV9-esgp-902434.jpg",
+                    "digest": "467900fd25ec9da8ef18beaca2779fdc2c0159448d21709ea9073e99ec89d60c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
         "pubdate": "2015-09-25",
         "url": "https://assets.documentcloud.org/documents/2432222/200g-iris-access.pdf",
         "accomp_articles": [
@@ -21787,6 +21848,198 @@
                     "original_name": "id-863-redacted-formatted.pdf",
                     "name": "2015-09-29_e6143d4b_id-863-redacted-formatted.pdf",
                     "digest": "e6143d4b51ec767c54e928de4f9220269d520641a54343755805b0883899e94e"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-11-18",
+        "url": "https://assets.documentcloud.org/documents/2514976/sigdev-is-it-time-for-a-target-reboot.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://theintercept.com/2015/11/18/overwhelmed-nsa-surprised-to-discover-its-own-surveillance-goldmine-on-venezuelas-oil-executives/",
+                "pubdate": "2015-11-18"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://theintercept.com/document/2015/11/17/sigdev-target-reboot/",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "sigdev-is-it-time-for-a-target-reboot.pdf",
+                    "name": "2015-11-18_d8c259c6_sigdev-is-it-time-for-a-target-reboot.pdf",
+                    "digest": "d8c259c69cf8261ef2740e749f4fc52f62d55ee731dfcf22d6f31411addebb07"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2015-12-23",
+        "url": "https://assets.documentcloud.org/documents/2653542/Juniper-Opportunity-Assessment-03FEB11-Redacted.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://theintercept.com/2015/12/23/juniper-firewalls-successfully-targeted-by-nsa-and-gchq/",
+                "pubdate": "2015-12-23"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2653542-Juniper-Opportunity-Assessment-03FEB11-Redacted.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "Juniper-Opportunity-Assessment-03FEB11-Redacted.pdf",
+                    "name": "2015-12-23_b07f47fc_Juniper-Opportunity-Assessment-03FEB11-Redacted.pdf",
+                    "digest": "b07f47fc7ba3f63f635b10bf0b547baf8b0dc2e50324c8a5214c271877ad562c"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2016-01-29",
+        "url": "https://assets.documentcloud.org/documents/2699846/Anarchist-Training-mod5-Redacted-Compat.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://theintercept.com/2016/01/28/israeli-drone-feeds-hacked-by-british-and-american-intelligence/",
+                "pubdate": "2016-01-29"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2699846-Anarchist-Training-mod5-Redacted-Compat.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "Anarchist-Training-mod5-Redacted-Compat.pdf",
+                    "name": "2016-01-29_e0ceb17c_Anarchist-Training-mod5-Redacted-Compat.pdf",
+                    "digest": "e0ceb17c09a94f66b585b75a57ab826a026e54e1d1ac4429975790d081bc8ebf"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2016-01-29",
+        "url": "https://assets.documentcloud.org/documents/2699848/S455N-Redacted.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://theintercept.com/2016/01/28/israeli-drone-feeds-hacked-by-british-and-american-intelligence/",
+                "pubdate": "2016-01-29"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2699848-S455N-Redacted.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "S455N-Redacted.pdf",
+                    "name": "2016-01-29_d5a6acb8_S455N-Redacted.pdf",
+                    "digest": "d5a6acb80d236505f6f6901ebd234799a6fcf84efd44cb06b7d642e2eb370bb3"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2016-01-29",
+        "url": "https://assets.documentcloud.org/documents/2699849/F-16-FISINT2-Redacted.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://theintercept.com/2016/01/28/israeli-drone-feeds-hacked-by-british-and-american-intelligence/",
+                "pubdate": "2016-01-29"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2699849-F-16-FISINT2-Redacted.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "F-16-FISINT2-Redacted.pdf",
+                    "name": "2016-01-29_c2a18abc_F-16-FISINT2-Redacted.pdf",
+                    "digest": "c2a18abcd2e5b48fd9dca028599153b14bc4d4de8b96dfdb567cd0ba796bd137"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2016-01-29",
+        "url": "https://assets.documentcloud.org/documents/2699852/6-Months-Overview-Redacted.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://theintercept.com/2016/01/28/israeli-drone-feeds-hacked-by-british-and-american-intelligence/",
+                "pubdate": "2016-01-29"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "https://www.documentcloud.org/documents/2699852-6-Months-Overview-Redacted.html",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "6-Months-Overview-Redacted.pdf",
+                    "name": "2016-01-29_4dfaa5e0_6-Months-Overview-Redacted.pdf",
+                    "digest": "4dfaa5e0979ab71439e2a39cc15912d518ef2c652d772524a2549aad012757bc"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2016-02-02",
+        "url": "https://assets.documentcloud.org/documents/2702948/Problem-Book-Redacted.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://boingboing.net/2016/02/02/doxxing-sherlock-3.html",
+                "pubdate": "2016-02-02"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "Problem-Book-Redacted.pdf",
+                    "name": "2016-02-02_247cda31_Problem-Book-Redacted.pdf",
+                    "digest": "247cda315f6ba5c1e0c2471d385fcef2850554f91c782401e6d3793807b96caf"
+                },
+                "index": ""
+            }
+        ]
+    },
+    {
+        "pubdate": "2016-02-02",
+        "url": "https://www.documentcloud.org/documents/2699620/What-Is-the-Worst-That-Can-Happen-March-2010.pdf",
+        "accomp_articles": [
+            {
+                "url": "https://boingboing.net/2016/02/02/doxxing-sherlock-3.html",
+                "pubdate": "2016-02-02"
+            }
+        ],
+        "alternative_files": [],
+        "presentation_url": "",
+        "published_files": [
+            {
+                "index_type": "",
+                "file": {
+                    "files": [],
+                    "original_name": "What-Is-the-Worst-That-Can-Happen-March-2010.pdf",
+                    "name": "2016-02-02_2c0e33f8_What-Is-the-Worst-That-Can-Happen-March-2010.pdf",
+                    "digest": "2c0e33f8f5ddc7229de876fe5e0e4bfeb160cf6bbcc83d97828e400325ae79f2"
                 },
                 "index": ""
             }
